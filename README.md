@@ -12,5 +12,5 @@
 
     <p>Detecção de objetos, YOLOv7, Detecção de contornos e OCR</p>
 
-    <p>https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb</p>
+    https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb
 </html>
