@@ -3,7 +3,7 @@
 
 <html>
  <head>
-  <title> <h2>Detecção de veículos e reconhecimento de placas em vídeos </br> <h2> <title>
+  <title> Detecção de veículos e reconhecimento de placas em vídeos </br><title>
   Detecção de objetos, YOLOv7, Detecção de contornos e OCR
  </head>
  <body>
