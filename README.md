@@ -3,7 +3,7 @@
 
 <html>
  <head>
-  <h2>Detecção de veículos e reconhecimento de placas em vídeos <h2>
+  Detecção de veículos e reconhecimento de placas em vídeos
    </br>
  </head>
  <body>
