@@ -6,4 +6,4 @@
 
 <b> Controle de acesso de veículos em condomínios utilizando detecção de placas </b>
 
-* [Detecção de objetos, YOLOv7, Detecção de contornos e OCR](https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb)
+* [Detecção e OCR de placas, associação com planilha de placas autorizadas](https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb)
