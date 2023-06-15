@@ -1,4 +1,6 @@
-# Object Detection
+# Controle do acesso de veículos em condomínios
+Programa K
+Colaboradores: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Daired Almeida, Daniel Machado, Emanuelle Passos, Marcelo Henrique
 
 <b> Detecção de veículos e reconhecimento de placas em vídeos</b>
 
