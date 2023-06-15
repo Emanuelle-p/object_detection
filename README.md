@@ -9,4 +9,4 @@ Colaboradores: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Dair
 
 <b> Controle de acesso de veículos em condomínios utilizando detecção de placas </b>
 
-* [Detecção e OCR de placas, associação com planilha de placas autorizadas](https://github.com/Emanuelle-p/object_detection/blob/main/controle_de_acesso_de_ve%C3%ADculos_em_condom%C3%ADnios_utilizando_detec%C3%A7%C3%A3o_de_placas.ipynb)
+* [Associação da detecção da placa do veículo aos dados em uma planilha referente aos veículos autorizados a entrar no condomínio](https://github.com/Emanuelle-p/object_detection/blob/main/controle_de_acesso_de_ve%C3%ADculos_em_condom%C3%ADnios_utilizando_detec%C3%A7%C3%A3o_de_placas.ipynb)
