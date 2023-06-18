@@ -1,7 +1,7 @@
 # Controle do acesso de veículos em condomínios
 <b> Programa K </b>
 
-Colaboradores: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Daired Almeida, Daniel Machado, Emanuelle Passos, Marcelo Henrique
+Time: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Daired Almeida, Daniel Machado, Emanuelle Passos, Marcelo Henrique
 
 <b> Detecção de veículos e reconhecimento de placas em vídeos</b>
 
