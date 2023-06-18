@@ -19,4 +19,14 @@ Assim, é interessante conter em tal documento as seguintes informações:
 
 ### Quais são as técnicas de levantamento de requisitos?
 Dentre as várias técnicas de levamento de requisitos, podem ser citadas:
-* 
+* **Entrevistas:** levantar questionamentos aos stakeholders acerca das suas necessidades de forma a melhor definir os requisitos.
+  
+* **Workshops:** atividades como debates, brainstorming e exercícios práticos de colaboração com os stakeholders para se trocar ideias sobre os requisitos.
+
+* **Pesquisa, observações e questionários:** identificação de requisitos a partir de observações ou do uso de formulários com o objetivo de se coletar informações dos stakeholders.
+
+* **Análise de documentos:** o contato com fontes de informação sobre o assunto em análise, como documentos, manuais, regulamentação, relatórios, artigos e registros permite fazer o levantamento dos requisitos necessários.
+  
+* **Prototipagem:** elaboração de protótipos em que seja possível visualizar a interação dos stakeholders com a aplicação permite a realização de "testes de ideias".
+
+* **JAD (Joint Application Development):** técnica de desenvolvimento compartilhado com as partes interessadas na aplicação, assim diferentes pontos de vista podem ser analisados e ao final obtém-se os requisitos em concenso.
