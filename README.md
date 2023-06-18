@@ -3,9 +3,15 @@
 
 Time: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Daired Almeida, Daniel Machado, Emanuelle Passos, Marcelo Henrique
 
-O projeto de controle de acesso em condomínios utilizando reconhecimento de placas tem como objetivo implementar um sistema automatizado e seguro para monitorar e regular o fluxo de veículos dentro de um condomínio residencial.
+**O projeto de controle de acesso em condomínios utilizando reconhecimento de placas tem como objetivo implementar um sistema automatizado e seguro para monitorar e regular o fluxo de veículos dentro de um condomínio residencial.**
 
 ### Nossa jornada
+
+#### Ideia:
+Visando garantir a segurança em condomínios o acesso de veículos é bem restrito, sendo necessário o preenchimento de registros e outros vários processos burocráticos para a autorização da entrada. Assim, a entrega de comida/objetos ou mesmo a entrada de funcionários de aplicativos de corrida pode ficar demorada e complexa.
+
+#### Solução proposta:
+Associar a detecção da placa do veículo aos dados em uma planilha referente aos veículos autorizados a entrar no condomínio para que o acesso dele seja mais rápido e fácil, utilizando os conhecimentos obtidos em instructions anteriores.
 
 * **INSTRUCTIONs 1 e 2**: Criamos um notebook prático sobre os princípios da detecção de objetos utilizando YOLOv7 para fazer a identificação de veículos e OCR de placas em vídeo. Nesse notebook, ["object_detection"](https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb) foram trabalhados os conceitos de Detecção de objetos, YOLOv7, Detecção de contornos e OCR.
 
