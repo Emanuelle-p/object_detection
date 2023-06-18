@@ -18,3 +18,5 @@ Assim, é interessante conter em tal documento as seguintes informações:
 * **Requisitos técnicos:** detalhes sobre as tecnologias utilizadas, como linguagens de programação, bibliotecas, frameworks, base de dados, etc. 
 
 ### Quais são as técnicas de levantamento de requisitos?
+Dentre as várias técnicas de levamento de requisitos, podem ser citadas:
+* 
