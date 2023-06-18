@@ -14,10 +14,5 @@ Assim, é interessante conter em tal documento as seguintes informações:
 * **Requisitos não funcionais:** listagem dos requisitos que são importantes à aplicação, mas não se referem diretamente às suas funcionalidades, tais como desempenho, segurança, compatibilidade com navegadores, acessibilidade e armazenamento. Ou seja, apesar de não serem funções realizadas pela aplicação, eles interferem na qualidade dela.
 
 * **Requisitos técnicos:** detalhes sobre as tecnologias utilizadas, como linguagens de programação, bibliotecas, frameworks, base de dados, etc. 
-  
-* **Interface do usuário:** detalhes visuais da aplicação disponíveis ao usuário, ou seja, é basicamente como o usuário vê e interage com a aplicação, o seu design, layout, cores, botões e fluxo de navegação.
-  
-### Quais são os tipos de documentos de requisitos?
-
 
 ### Quais são as técnicas de levantamento de requisitos?
