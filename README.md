@@ -9,7 +9,7 @@ Visando garantir a segurança em condomínios o acesso de veículos é bem restr
 ### Solução proposta:
 Associar a detecção da placa do veículo aos dados em uma planilha referente aos veículos autorizados a entrar no condomínio para que o acesso dele seja mais rápido e fácil, utilizando os conhecimentos obtidos em instructions anteriores.
 
-#### Nossa jornada
+### Nossa jornada
 
 * **INSTRUCTIONs 1 e 2**: Criamos um notebook prático sobre os princípios da detecção de objetos utilizando YOLOv7 para fazer a identificação de veículos e OCR de placas em vídeo. Nesse notebook, ["object_detection"](https://github.com/Emanuelle-p/object_detection/blob/main/object_detection.ipynb) foram trabalhados os conceitos de Detecção de objetos, YOLOv7, Detecção de contornos e OCR.
 
