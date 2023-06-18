@@ -7,6 +7,8 @@ O documento de requisitos é um documento no qual são listados os requisitos da
 Assim, é interessante conter em tal documento as seguintes informações:
 * **Descrição geral:** uma exposição geral que proporcione o conhecimento do seu objetivo, benefícios e público-alvo a que ela se dirige.
 
+* **Identificação dos stakeholders:** apontamento dos usuários que têm interesse na aplicação e desccrição da relação deles com esta.
+  
 * **Fontes de informação:** fontes que corroboraram para a identificação dos requisitos da aplicação.
    
 * **Requisitos funcionais:** listagem dos requisitos que se referem às funcionalidades da aplicação com sua descrição. Alguns exemplos podem ser login, integração com banco de dados e API, caso seja necessário à aplicação.
