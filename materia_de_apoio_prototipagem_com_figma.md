@@ -1,7 +1,7 @@
 # Material de Apoio: Prototipagem com Figma
 
 
-### O que é Prototipagem
+### O que é Prototipagem?
 A prototipagem é uma técnica utilizada no desenvolvimento de software que permite criar representações visuais interativas de um sistema antes de sua implementação final. É uma etapa crucial do processo de design, pois ajuda a validar conceitos, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
 
 Um protótipo é uma versão simplificada e simulada da aplicação final, que pode incluir interfaces de usuário, fluxos de navegação e funcionalidades básicas. Ele permite visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação.
