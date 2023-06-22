@@ -2,12 +2,13 @@
 
 
 ### O que é Prototipagem?
-A prototipagem é uma técnica muito utilizada no desenvolvimento de software (e em outras áreas) que permite criar representações visuais interativas de um sistema antes de sua implementação final. É uma etapa crucial do processo de design, pois ajuda a validar conceitos, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
+A prototipagem é uma etapa do processo no desenvolvimento, na qual se faz um **protótipo**, do que se está sendo criado, isto é, cria-se uma ou mais **versões modelo** de um **produto final**. Se trata uma versão simplificada ou simulada da aplicação final, que pode ser feita através de desenhos num papel, uma encenação do produto em ação, ou em um software dedicado a isso. A prototipagem de softwares, geralmente, inclui interfaces de usuário, fluxos de navegação e funcionalidades básicas. 
 
-Um protótipo é uma versão simplificada e simulada da aplicação final, que pode incluir interfaces de usuário, fluxos de navegação e funcionalidades básicas. Ele permite visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação.
+É uma etapa crucial do processo de **design**, pois ajuda a validar conceitos, visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
+
 
 ### Utilizando o Figma para Prototipagem
-O Figma é uma ferramenta popular e poderosa para a criação de protótipos interativos. 
+Dentre as várias **ferramentas** para criação de protótipos de software, o Figma é uma opção poderosa, e talvez por isso, uma das mais populares.
 Ele oferece recursos que permitem aos designers criar interfaces de usuário, definir fluxos de navegação e simular a interação do usuário com a aplicação.
 
 Guia básico sobre como utilizar o Figma considerando que as funcionalidades do sistema já estão definidas:
