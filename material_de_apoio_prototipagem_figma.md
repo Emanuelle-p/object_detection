@@ -28,7 +28,7 @@ Guia básico sobre como utilizar o Figma considerando que as funcionalidades do 
 ### Conclusão
 A prototipagem com o uso do Figma é uma abordagem eficaz para visualizar e validar conceitos de design antes da implementação final de um sistema. Ela permite identificar problemas e aprimorar a usabilidade, garantindo que a aplicação atenda às expectativas dos usuários. Além disso, facilita o trabalho dos programadores na etapa de desenvolvimento, visto que a prototipagem fornece um "caminho" que deve ser seguido para alcançar o produto final desejado.
 
-Ao utilizar o Figma para prototipagem, é possível criar interfaces interativas, definir fluxos de navegação e simular a experiência do usuário. A ferramenta oferece recursos avançados que facilitam a colaboração e a obtenção de feedback, tornando o processo mais eficiente e iterativo.
+A ferramenta oferece recursos avançados que facilitam a colaboração e a obtenção de feedback, tornando o processo mais eficiente e iterativo.
 
 Lembre-se de envolver os stakeholders e usuários durante o processo de prototipagem, buscando obter suas opiniões e sugestões para criar uma aplicação que atenda às necessidades e expectativas de todos os envolvidos.
 
