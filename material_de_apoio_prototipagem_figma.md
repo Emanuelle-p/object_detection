@@ -4,7 +4,7 @@
 ### O que é Prototipagem?
 A prototipagem é uma etapa do processo no desenvolvimento, na qual se faz um **protótipo** do que se está sendo criado, isto é, cria-se uma ou mais **versões modelo** de um **produto final**. Se trata uma versão simplificada ou simulada da aplicação final, que pode ser feita através de desenhos num papel, uma encenação do produto em ação, ou em um software dedicado a isso. A prototipagem de softwares, geralmente, inclui interfaces de usuário, fluxos de navegação e funcionalidades básicas. 
 
-É uma etapa crucial do processo de **design**, pois ajuda a validar conceitos, visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
+É uma parte crucial do **design**, pois ajuda a validar conceitos, visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
 
 
 ### Utilizando o Figma para Prototipagem
