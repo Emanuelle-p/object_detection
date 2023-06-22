@@ -2,7 +2,7 @@
 
 
 ### O que é Prototipagem?
-A prototipagem é uma técnica utilizada no desenvolvimento de software que permite criar representações visuais interativas de um sistema antes de sua implementação final. É uma etapa crucial do processo de design, pois ajuda a validar conceitos, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
+A prototipagem é uma técnica muito utilizada no desenvolvimento de software (e em outras áreas) que permite criar representações visuais interativas de um sistema antes de sua implementação final. É uma etapa crucial do processo de design, pois ajuda a validar conceitos, explorar ideias e obter feedback dos usuários antes de investir tempo e recursos na construção completa do produto.
 
 Um protótipo é uma versão simplificada e simulada da aplicação final, que pode incluir interfaces de usuário, fluxos de navegação e funcionalidades básicas. Ele permite visualizar a aparência e o comportamento do sistema, proporcionando uma compreensão mais clara de como os usuários irão interagir com a aplicação.
 
@@ -10,7 +10,7 @@ Um protótipo é uma versão simplificada e simulada da aplicação final, que p
 O Figma é uma ferramenta popular e poderosa para a criação de protótipos interativos. 
 Ele oferece recursos que permitem aos designers criar interfaces de usuário, definir fluxos de navegação e simular a interação do usuário com a aplicação.
 
-Aqui está um guia básico sobre como utilizar o Figma considerando as funcionalidades do nosso sistema já definidas:
+Guia básico sobre como utilizar o Figma considerando que as funcionalidades do sistema já estão definidas:
 
 1. **Criação de telas:** No Figma, comece criando uma tela para cada página ou seção do sistema. Use as ferramentas de desenho para criar elementos visuais, como botões, campos de entrada e elementos de navegação.
 
@@ -22,13 +22,13 @@ Aqui está um guia básico sobre como utilizar o Figma considerando as funcional
 
 5. **Iteração e aprimoramento:** Com base no feedback recebido, faça iterações no protótipo para melhorar o design e a experiência do usuário. Refine as telas, ajuste os fluxos de navegação e adicione ou remova elementos conforme necessário. Repita esse processo até alcançar um protótipo final que atenda aos requisitos e expectativas.
 
-Lembre-se de que o Figma é uma ferramenta flexível e altamente personalizável. Explore os recursos avançados, como componentes reutilizáveis, estilos globais e colaboração em tempo real, para otimizar o processo de prototipagem e facilitar o trabalho em equipe.
+É importante ressaltar que o Figma é uma ferramenta flexível e altamente personalizável. Explore os recursos avançados, como componentes reutilizáveis, estilos globais e colaboração em tempo real, para otimizar o processo de prototipagem e facilitar o trabalho em equipe.
 
 ### Conclusão
-A prototipagem com o uso do Figma é uma abordagem eficaz para visualizar e validar conceitos de design antes da implementação final de um sistema. Ela permite identificar problemas e aprimorar a usabilidade, garantindo que a aplicação atenda às expectativas dos usuários.
+A prototipagem com o uso do Figma é uma abordagem eficaz para visualizar e validar conceitos de design antes da implementação final de um sistema. Ela permite identificar problemas e aprimorar a usabilidade, garantindo que a aplicação atenda às expectativas dos usuários. Além disso, facilita o trabalho dos programadores na etapa de desenvolvimento, visto que a prototipagem fornece um "caminho" que deve ser seguido para alcançar o produto final desejado.
 
 Ao utilizar o Figma para prototipagem, é possível criar interfaces interativas, definir fluxos de navegação e simular a experiência do usuário. A ferramenta oferece recursos avançados que facilitam a colaboração e a obtenção de feedback, tornando o processo mais eficiente e iterativo.
 
 Lembre-se de envolver os stakeholders e usuários durante o processo de prototipagem, buscando obter suas opiniões e sugestões para criar uma aplicação que atenda às necessidades e expectativas de todos os envolvidos.
 
-Com a prototipagem, é possível reduzir riscos, economizar tempo e recursos, além de garantir um produto final de qualidade, com uma experiência de usuário excepcional. Portanto, aproveite os benefícios da prototipagem com o Figma em nosso processo de desenvolvimento e design.
+Com a prototipagem, é possível reduzir riscos, economizar tempo e recursos, além de garantir um produto final de qualidade, com uma experiência de usuário excepcional. Portanto, aproveite os benefícios da prototipagem com o Figma no processo de desenvolvimento e design.
