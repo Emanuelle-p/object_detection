@@ -16,17 +16,17 @@
 
 ### 1.2   Objetivo
 
-   Associar a detecção da placa do veículo aos dados em uma banco de dados referente aos veículos autorizados a entrar no condomínio para que o acesso dele seja mais rápido e fácil.
+   Associar a detecção da placa do veículo aos dados em um banco de dados referente aos veículos autorizados a entrar no condomínio para que o acesso dele seja mais rápido e fácil.
 
 ### 1.3  Benefícios
 
-- Agilidade na entrada do condomínios
+- Agilidade na entrada do condomínio
 - Maior controle sobre o fluxo de visitantes e entregadores
 - Automatização do processo
 
 ### 1.4 Descrição
 
-Um aplicativo que permita a consulta de informações sobre moradores e visitantes e verificar o fluxo de entrada de automóveis pelos funcionários e que os moradores possam permitir o acesso de visitantes de forma automática.
+Um aplicativo que permita aos funcionários consultar informações sobre moradores e visitantes e verificar o fluxo de entrada de automóveis e no qual os moradores possam permitir o acesso de visitantes de forma automática.
 
 ### 1.5 Principais Requisitos:
 
