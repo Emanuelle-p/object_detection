@@ -1,4 +1,4 @@
-# Documento de Requisitos da Aplicação Web
+# Material de apoio: Documento de Requisitos
 
 
 ### O que é um documento de requisitos?
