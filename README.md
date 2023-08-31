@@ -1,7 +1,7 @@
 # Controle do acesso de veículos em condomínios
 <b> Programa K </b>
 
-Time: Adriano Ferreira, Amir Youssef, Artur Matos, Bernardo Aires, Daired Almeida, Daniel Machado, Emanuelle Passos, Marcelo Henrique
+Time: [Adriano Ferreira](https://www.linkedin.com/in/lopes-adriano/), [Amir Youssef](https://www.linkedin.com/in/amir-youssef-dos-santos-1843b7236/), [Artur Matos](https://www.linkedin.com/in/arturmatos/), [Bernardo Aires](https://www.linkedin.com/in/bernardoaires/), [Daired Almeida](https://www.linkedin.com/in/daired-almeida-cruz-a20163231/), [Daniel Machado](https://www.linkedin.com/in/daniel-machado-9357b6244/), [Emanuelle Passos](https://www.linkedin.com/in/emanuelle-passos-martins-0535a3213/), [Marcelo Henrique](https://www.linkedin.com/in/marcelo-henrique-alves-pereira-sobrinho-7bb0711b8/)
 
 ### Ideia:
 Visando garantir a segurança em condomínios o acesso de veículos é bem restrito, sendo necessário o preenchimento de registros e outros vários processos burocráticos para a autorização da entrada. Assim, a entrega de comida/objetos ou mesmo a entrada de funcionários de aplicativos de corrida pode ficar demorada e complexa.
